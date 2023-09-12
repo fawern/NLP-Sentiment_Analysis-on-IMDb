@@ -22,8 +22,8 @@ Two methods are used: vectorize and tokenize the data:
 
 ## Model
 
-For CountVectorizer, Machine Learning models were used: Random Forest and Logistic Regression.
-For Tokenizer, Deep Learning models used: GRU
+- For CountVectorizer, Machine Learning models were used: Random Forest and logistic Regression.
+- For Tokenizer, Deep Learning models used: GRU
 
 ## Result
 
