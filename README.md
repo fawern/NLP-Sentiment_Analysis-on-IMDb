@@ -15,15 +15,15 @@ The data was preprocessed using the following steps:
 
 ## Vectorization and Tokenization
 
-There is two methode to vectorize and tokenize the data:
+Two methods are used: vectorize and tokenize the data:
 
 1. CountVectorizer
-2. Toknizer
+2. Tokenizer
 
 ## Model
 
-For CountVectorizer, Machine Learning models used: Random Forest, Logistic Regression
-For Toknizer, Deep Learning models used: GRU
+For CountVectorizer, Machine Learning models were used: Random Forest and Logistic Regression.
+For Tokenizer, Deep Learning models used: GRU
 
 ## Result
 
