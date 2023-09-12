@@ -22,7 +22,7 @@ There is two methode: vectorize and tokenize the data:
 
 ## Model
 
-For CountVectorizer, Machine Learning models used: Random Forest, Logistic Regression
+For CountVectorizer, Machine Learning models used: Random Forest, Logistic Regression.
 For Toknizer, Deep Learning models used: GRU
 
 ## Result
