@@ -15,7 +15,7 @@ The data was preprocessed using the following steps:
 
 ## Vectorization and Tokenization
 
-There is two methode to vectorize and tokenize the data:
+There is two methode: vectorize and tokenize the data:
 
 1. CountVectorizer
 2. Toknizer
